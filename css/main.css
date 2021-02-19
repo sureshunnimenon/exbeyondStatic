@@ -1520,7 +1520,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #features {
 	padding: 15rem 0 12rem;
-	background-color: #f9da4f;
+	background-color: rgb(201, 228, 148);
 	overflow: hidden;
 }
 
@@ -2443,7 +2443,7 @@ footer a:active {
 }
 
 .footer-social-wrap {
-	background: #111;
+	background: rgb(77, 51, 51);
 }
 
 .footer-social-list {
@@ -2479,11 +2479,16 @@ footer a:active {
 .footer-info {
 	padding-top: 6.6rem;
 	padding-bottom: 6rem;
+	color: rgb(187, 228, 125)
+}
+
+.footer-info-wrap {
+	background-color: #101214;
 }
 
 .footer-info a,
 .footer-info a:visited {
-	color: #292c35;
+	color: rgb(187, 228, 125)
 }
 
 .footer-info a:hover,
@@ -2511,6 +2516,7 @@ footer a:active {
 
 .footer-info .footer-link-list li {
 	padding: 0;
+	
 }
 
 .copyright span {
