@@ -720,6 +720,8 @@ label > input[type="radio"] {
  * 06. buttons - (_button-essentials.scss)
  *
  * ------------------------------------------------------------------- */
+
+
 .button,
 a.button,
 button,
@@ -735,7 +737,7 @@ input[type="button"] {
 	line-height: 5.4rem;
 	padding: 0 3rem;
 	margin: 0 .3rem 1.2rem 0;
-	background: #d8d8d8;
+	background: #dbc4c4;
 	color: #001835;
 	text-decoration: none;
 	cursor: pointer;
@@ -1344,7 +1346,7 @@ header .logo a {
 #main-content-wrap {
 	z-index: 600;
 	position: relative;
-	background: #0e0e0e;
+	background: #f1eded;
 }
 
 
@@ -1354,7 +1356,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url(../images/intro-bg.png);
+	background-image: url(../images/intro-bg9.png);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
